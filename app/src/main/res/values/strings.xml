@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">First medical AID</string>
+    <string name="personal_data">Enter your personal data</string>
+    <string name="full_name">Your full name</string>
+    <string name="birth_date">Date of birth</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="sex">Sex</string>
+    <string name="select">Select</string>
+    <string name="select_image">Select your image (optional)</string>
+    <string name="save">Save</string>
+</resources>
